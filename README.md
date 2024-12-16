@@ -8,6 +8,7 @@
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=mgalal0&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
+
 ### 🚀 About Me
 A seasoned software engineer with proven expertise in web development and project management. Combining technical proficiency with strong leadership skills, I've successfully delivered **90+ projects** across corporate and freelance environments.
 
