@@ -57,7 +57,6 @@ I'm available for challenging projects that require technical expertise and stra
 
 <div align="center">
   
-<--- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url) --->
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mgalal0)
   
 </div>
