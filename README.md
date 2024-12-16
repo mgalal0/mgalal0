@@ -1,12 +1,13 @@
-<div align="center">
-  <h1>👋 Hi, I'm Mahmoud Galal</h1>
-  <h3>Full-Stack Developer & Project Management Professional</h3>
-</div>
-
 <p align="center">
-Hello! I'm a passionate developer with a keen eye for detail and a drive for excellence. With expertise across multiple technologies and a strong foundation in project management, I bring both technical skills and leadership capabilities to every project. Whether it's building complex web applications or managing large-scale projects, I'm committed to delivering high-quality solutions that make a real impact.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3982F7&center=true&vCenter=true&random=false&width=435&lines=👋+Hi%2C+I'm+Mahmoud+Galal;Full-Stack+Developer;Project+Management+Pro;90%2B+Projects+Delivered;PMP+Certified+Professional" alt="Typing SVG" />
 </p>
 
+<div align="center">
+  <h3>Full-Stack Developer & Project Management Professional</h3>
+  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=mgalal0&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
 ## 🚀 About Me
 A seasoned software engineer with proven expertise in web development and project management. Combining technical proficiency with strong leadership skills, I've successfully delivered **90+ projects** across corporate and freelance environments.
 
