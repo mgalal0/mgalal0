@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3982F7&center=true&vCenter=true&random=false&width=435&lines=👋+Hi%2C+I'm+Mahmoud+Galal;Full-Stack+Developer;Project+Management+Pro;90%2B+Projects+Delivered;PMP+Certified+Professional"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3982F7&center=true&vCenter=true&random=false&width=435&lines=👋+Hello%2C+I'm+Mahmoud+Galal;Senior+Software+Engineer;Project+Management+Expert;5%2B+Years+Experience;200%2B+Projects+Delivered;PMP+Certified+Professional"/>
 </p>
 
 <div align="center">
-  <h3>Full-Stack Developer & Project Management Professional</h3>
+  <h3>Senior Software Engineer (SSE) | Project Manager (PM) | Delivering Scalable & High-Impact Solutions</h3>
   
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=mgalal0&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 ### 🚀 About Me
-A seasoned software engineer with proven expertise in web development and project management. Combining technical proficiency with strong leadership skills, I've successfully delivered **90+ projects** across corporate and freelance environments.
+A seasoned software engineer with **5+ years** of proven expertise in web development and project management. Combining technical proficiency with strong leadership skills, I've successfully delivered **200+ projects** across corporate and freelance environments.
 
 ### 💼 Professional Highlights
-- Former Technology Services Company Owner (2 years)
+- **5+ Years** of Software Development Experience
 - PMP Certified Professional
 - Team Lead with proven track record
 - Expertise in Dashboard Development and Complex Web Applications
@@ -25,6 +25,8 @@ A seasoned software engineer with proven expertise in web development and projec
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
 ### Frontend Development
@@ -44,8 +46,8 @@ A seasoned software engineer with proven expertise in web development and projec
 </p>
 
 ## 📈 Project Portfolio Overview
-- 70+ Successful Corporate Projects
-- 20+ Freelance Projects
+- 150+ Successful Corporate Projects
+- 50+ Freelance Projects
 - Specialized in AI-Enhanced Web Solutions
 - Complex Dashboard Development
 - Database Architecture Design
@@ -94,6 +96,7 @@ I'm available for challenging projects that require technical expertise and stra
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mgalal0&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgalal0&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mgalal0&show_icons=true&theme=tokyonight&hide_border=true" alt="Mahmoud's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgalal0&theme=tokyonight&hide_border=true" alt="Mahmoud's GitHub Streak" />
 </div>
